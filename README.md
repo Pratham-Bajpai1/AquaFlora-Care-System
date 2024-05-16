@@ -39,6 +39,8 @@ Welcome to the Plant Monitoring & Watering System Using IoT! This innovative pro
 
 ![Screenshot 2023-11-07 010511](https://github.com/Pratham-Bajpai1/AquaFlora-Care-System/assets/124435912/a58e2611-eedc-4c52-af44-57047ac3ce13)
 
+**PowerBI DashBoard Link - https://app.powerbi.com/links/ISPKT9bBLy?ctid=866f7fb5-6d0d-4904-b9b4-2a8baf60b820&pbi_source=linkShare
+
 ---
 
 ## How It Works 🔄
